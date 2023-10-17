@@ -70,3 +70,77 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+.vsconfig
+Assets/Font.meta
+Assets/Font/DePixelSchmal.otf
+Assets/Font/DePixelSchmal.otf.meta
+Assets/Material.meta
+Assets/Material/PlayerPhysic.physicsMaterial2D
+Assets/Material/PlayerPhysic.physicsMaterial2D.meta
+Assets/Material/Slope.physicsMaterial2D
+Assets/Material/Slope.physicsMaterial2D.meta
+Assets/Scenes.meta
+Assets/Scenes/SampleScene.unity
+Assets/Scenes/SampleScene.unity.meta
+Assets/Scripts.meta
+Assets/Scripts/IdleAnimation.cs
+Assets/Scripts/IdleAnimation.cs.meta
+Assets/Scripts/PlatformSwitch.cs
+Assets/Scripts/PlatformSwitch.cs.meta
+Assets/Scripts/PlayerMovement.cs
+Assets/Scripts/PlayerMovement.cs.meta
+Assets/Scripts/PlayerMovementNew.cs
+Assets/Scripts/PlayerMovementNew.cs.meta
+Assets/Simple 2D Platformer BE2.meta
+Assets/Simple 2D Platformer BE2/Sprites.meta
+Assets/Simple 2D Platformer BE2/Sprites/attack.png
+Assets/Simple 2D Platformer BE2/Sprites/attack.png.meta
+Assets/Simple 2D Platformer BE2/Sprites/Circle.controller
+Assets/Simple 2D Platformer BE2/Sprites/Circle.controller.meta
+Assets/Simple 2D Platformer BE2/Sprites/CoinAnimation.anim
+Assets/Simple 2D Platformer BE2/Sprites/CoinAnimation.anim.meta
+Assets/Simple 2D Platformer BE2/Sprites/Coins.png
+Assets/Simple 2D Platformer BE2/Sprites/Coins.png.meta
+Assets/Simple 2D Platformer BE2/Sprites/Enemy.png
+Assets/Simple 2D Platformer BE2/Sprites/Enemy.png.meta
+Assets/Simple 2D Platformer BE2/Sprites/Objects.png
+Assets/Simple 2D Platformer BE2/Sprites/Objects.png.meta
+Assets/Simple 2D Platformer BE2/Sprites/Platforms.png
+Assets/Simple 2D Platformer BE2/Sprites/Platforms.png.meta
+Assets/Simple 2D Platformer BE2/Sprites/player.controller
+Assets/Simple 2D Platformer BE2/Sprites/player.controller.meta
+Assets/Simple 2D Platformer BE2/Sprites/Player.png
+Assets/Simple 2D Platformer BE2/Sprites/Player.png.meta
+Assets/Simple 2D Platformer BE2/Sprites/PlayerIdleAnimation.anim
+Assets/Simple 2D Platformer BE2/Sprites/PlayerIdleAnimation.anim.meta
+Assets/Simple 2D Platformer BE2/Sprites/PlayerJumpAnimation.anim
+Assets/Simple 2D Platformer BE2/Sprites/PlayerJumpAnimation.anim.meta
+Assets/Simple 2D Platformer BE2/Sprites/PlayerWalkAnimation.anim
+Assets/Simple 2D Platformer BE2/Sprites/PlayerWalkAnimation.anim.meta
+Packages/manifest.json
+Packages/packages-lock.json
+ProjectSettings/AudioManager.asset
+ProjectSettings/BurstAotSettings_StandaloneWindows.json
+ProjectSettings/ClusterInputManager.asset
+ProjectSettings/CommonBurstAotSettings.json
+ProjectSettings/DynamicsManager.asset
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/EditorSettings.asset
+ProjectSettings/GraphicsSettings.asset
+ProjectSettings/InputManager.asset
+ProjectSettings/MemorySettings.asset
+ProjectSettings/NavMeshAreas.asset
+ProjectSettings/NetworkManager.asset
+ProjectSettings/PackageManagerSettings.asset
+ProjectSettings/Physics2DSettings.asset
+ProjectSettings/PresetManager.asset
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/ProjectVersion.txt
+ProjectSettings/QualitySettings.asset
+ProjectSettings/SceneTemplateSettings.json
+ProjectSettings/TagManager.asset
+ProjectSettings/TimeManager.asset
+ProjectSettings/UnityConnectSettings.asset
+ProjectSettings/VersionControlSettings.asset
+ProjectSettings/VFXManager.asset
+ProjectSettings/XRSettings.asset
